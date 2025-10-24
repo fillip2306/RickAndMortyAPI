@@ -1,2 +1,27 @@
-# RickAndMortyAPI
-A React application that fetches and displays data from the Rick and Morty API. The project demonstrates the use of React Router, Axios, and Tailwind CSS to build a modern, responsive Single Page Application without any custom backend or database, fetching all data directly from the API in real time.
+# Rick and Morty API App
+
+En React-app som viser karakterer fra Rick and Morty-universet.  
+Appen henter data fra det offentlige API-et og viser karakterer med søkefunksjon.
+
+## 📸 Screenshots
+
+### Hjemmeside
+![Hjemmeside](./screenshots/home.png)
+
+### Karakterliste
+![Karakterliste](./screenshots/characters.png)
+
+### Finn karakter etter ID
+![Finn karakter etter ID](./screenshots/charactersbyid.png)
+
+### Lokasjoner
+![Lokasjoner](./screenshots/locations.png)
+
+### Om oss
+![Om oss](./screenshots/aboutus.png)
+
+## 🚀 Teknologier brukt
+- ⚛️ **React** (med TypeScript)
+- 🎨 **Tailwind CSS** for styling
+- 🌐 **Axios / Fetch API** for datainnhenting
+- ⚙️ **Vite** som utviklingsmiljø og bundler
