@@ -1,0 +1,11 @@
+.container {
+  width: 100%;
+  padding: 20px;
+  background-color: #f4f4f4;
+}
+
+
+.heading {
+  font-size: 2rem;
+  color: purple;
+}
